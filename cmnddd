@@ -1,0 +1,12 @@
+pkg update && pkg upgrade -y
+pkg install git -y
+git clone 
+cd 
+ls
+
+pkg install clang python -y
+
+pip install pyTelegramBotAPI 
+chmod +x prime_god
+ls -l prime_god
+python3 bot.py
